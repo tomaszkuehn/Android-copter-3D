@@ -1,0 +1,13 @@
+{
+  "appId": "com.copter3d.app",
+  "appName": "Copter 3D",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "backgroundColor": "#1a1a2e",
+      "showSpinner": false
+    }
+  }
+}
